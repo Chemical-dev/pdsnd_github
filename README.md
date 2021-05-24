@@ -4,14 +4,19 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project uses python to explore the bikeshare data for US cities such as Chicago, Washington, and New York City to display the most common month, display the most common day of week, display the most common start hour. And other relevant statistical information. 
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Hacker Rank
+GitHub
+Stack Overflow
+Python Documentation
+Google

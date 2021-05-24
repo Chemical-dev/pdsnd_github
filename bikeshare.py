@@ -32,7 +32,7 @@ def correct_input(str_inp, runtype):
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    
 
     Returns:
         (str) city - name of the city to analyze

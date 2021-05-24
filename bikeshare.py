@@ -29,7 +29,7 @@ def correct_input(str_inp, runtype):
             print("wrong input!")
     return line_input
 
-
+### filter function
 def get_filters():
     """
     

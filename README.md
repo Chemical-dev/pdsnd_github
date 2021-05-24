@@ -15,8 +15,17 @@ washington.csv
 new_york_city.csv
 
 ### Credits
+<<<<<<< HEAD
 Hacker Rank
 GitHub
 Stack Overflow
 Python Documentation
 Google
+||||||| b7b8d95
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+=======
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+wikipedia
+>>>>>>> refactoring
